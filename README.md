@@ -1,5 +1,16 @@
 ## Em busca de melhoria!
 
+## Desenvolvedor Back-end em nodeJs.
+
+## framework principais:
+- Vitest
+- Eslint
+- Prisma ORM
+- Vitest
+- Git
+- Dotenv
+- Zod
+
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorInacioDev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
