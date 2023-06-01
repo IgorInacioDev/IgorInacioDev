@@ -3,7 +3,7 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorInacioDev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=synthwave"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorInacioDev&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 <br>
 
@@ -18,14 +18,14 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: contato.igoroliveira21@gmail.com">
-      <img width="30" src="gmail.svg">
+     <a href = "mailto: contato.igoroliveira21@gmail.com">
+      <img width="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gmail_tile_logo_icon_168164.png">
     </a>
     <a href = "https://www.linkedin.com/in/igor-inacio-2544a5186/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg">
     </a>
     <a href = "">
-      <img width="25" src="whatsapp.svg">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/512/124/124034.png">
     </a>
 </div>
   
