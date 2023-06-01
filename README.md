@@ -18,14 +18,14 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-     <a href = "mailto: contato.igoroliveira21@gmail.com">
-      <img width="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gmail_tile_logo_icon_168164.png">
+        <a href = "mailto: contato.igoroliveira21@gmail.com">
+      <img align="center" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gmail_tile_logo_icon_168164.png">
     </a>
     <a href = "https://www.linkedin.com/in/igor-inacio-2544a5186/">
-      <img width="25" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg">
+      <img align="center" height="30" width="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg">
     </a>
     <a href = "">
-      <img width="25" src="https://cdn-icons-png.flaticon.com/512/124/124034.png">
+     <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/124/124034.png">
     </a>
 </div>
   
