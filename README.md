@@ -3,13 +3,12 @@
 ## Desenvolvedor Back-end em nodeJs.
 
 ## framework principais:
+- Vitest             - Git
+- Eslint             - Zod
+- Prisma ORM         - Dotenv
 - Vitest
-- Eslint
-- Prisma ORM
-- Vitest
-- Git
-- Dotenv
-- Zod
+
+
 
 <div>
   
