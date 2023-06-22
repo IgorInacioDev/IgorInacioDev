@@ -36,7 +36,7 @@
     <a href = "https://www.linkedin.com/in/igor-inacio-2544a5186/">
       <img align="center" height="30" width="30" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg">
     </a>
-    <a href = "">
+    <a href = "https://wa.me/+11964807100">
      <img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/124/124034.png">
     </a>
 </div>
